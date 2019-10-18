@@ -12,4 +12,4 @@ var fizzBuzz = function (start, end) {
     }
 };
 
-fizzBuzz(1, 1000)
+fizzBuzz(1, 1001)
